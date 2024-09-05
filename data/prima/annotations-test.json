@@ -1,0 +1,158 @@
+{
+    "info": {
+        "year": 2023,
+        "version": "2.4.1",
+        "description": "COCO Label Conversion",
+        "contributor": "CVHub",
+        "url": "https://github.com/CVHub520/X-AnyLabeling",
+        "date_created": "2024-09-05"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "url": "https://www.gnu.org/licenses/gpl-3.0.html",
+            "name": "GNU GENERAL PUBLIC LICENSE Version 3"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Zone",
+            "supercategory": ""
+        }
+    ],
+    "images": [
+        {
+            "id": 1,
+            "file_name": "resume1.PNG",
+            "width": 546,
+            "height": 766,
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": ""
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                20.107438016528917,
+                22.256198347107446,
+                504.1322314049586,
+                92.56198347107438
+            ],
+            "area": 46663.479270541626,
+            "iscrowd": 0,
+            "ignore": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                19.28099173553717,
+                128.04132231404958,
+                256.19834710743805,
+                391.7355371900827
+            ],
+            "area": 100361.99713134352,
+            "iscrowd": 0,
+            "ignore": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                288.702479338843,
+                128.04132231404958,
+                232.23140495867767,
+                160.3305785123967
+            ],
+            "area": 37233.795505771464,
+            "iscrowd": 0,
+            "ignore": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                288.702479338843,
+                298.2892561983471,
+                225.6198347107437,
+                113.22314049586777
+            ],
+            "area": 25545.386244109,
+            "iscrowd": 0,
+            "ignore": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                289.5289256198347,
+                420.60330578512395,
+                234.71074380165282,
+                139.66942148760342
+            ],
+            "area": 32781.91380370195,
+            "iscrowd": 0,
+            "ignore": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                287.0495867768595,
+                570.1900826446282,
+                233.88429752066116,
+                135.53719008264454
+            ],
+            "area": 31700.020490403644,
+            "iscrowd": 0,
+            "ignore": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                18.454545454545425,
+                530.5206611570248,
+                258.67768595041326,
+                97.52066115702485
+            ],
+            "area": 25226.41896045354,
+            "iscrowd": 0,
+            "ignore": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                17.628099173553707,
+                635.4793388429753,
+                257.8512396694215,
+                88.42975206611573
+            ],
+            "area": 22801.721193907524,
+            "iscrowd": 0,
+            "ignore": 0,
+            "segmentation": []
+        }
+    ]
+}
