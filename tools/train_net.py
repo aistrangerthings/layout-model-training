@@ -132,8 +132,10 @@ def setup(args):
 
     cfg.DATASETS.TRAIN = (f"{args.dataset_name}-train",)
     cfg.DATASETS.TEST = (f"{args.dataset_name}-val",)
+    cfg.MODEL.DEVICE = 'cpu'
     cfg.freeze()
     default_setup(cfg, args)
+
     return cfg
 
 
